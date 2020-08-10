@@ -2,8 +2,8 @@
 /**
  * Write a description of GrayScaleConverter here.
  * This class returns a new image that is the grayscale conversion of the original image.
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Yashi Saxena) 
+ * @version (07/08/2020)
  */
 import edu.duke.*;
 import java.io.*;
